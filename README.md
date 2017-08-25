@@ -1,6 +1,31 @@
 # PhotoGalleryApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.1.
+A Simple PhotoGallery App built with Angular 4.
+
+Angular 4 Services, Components, Routing is used.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
+
+## Live/Deployed on heroku
+[![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](https://ng-photogallery.herokuapp.com/)
+
+<p align="center">
+  <br><br>
+  <img src="https://github.com/Jyotsna-Singh/Angular4-PhotoGallery/blob/master/src/assets/demo.gif" />
+</p>
+
+
+## Clone/Download
+
+`git clone https://github.com/Jyotsna-Singh/Angular4-Item-List-App.git`
+
+## License
+MIT License
+
+<p align="center">
+  <br><br>
+  <img src="https://github.com/Jyotsna-Singh/Jyotsna-Singh/blob/master/assets/img/angular.png" width="300px" height="auto" />
+</p>
 
 ## Development server
 
