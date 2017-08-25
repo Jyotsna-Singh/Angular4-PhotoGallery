@@ -17,7 +17,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Clone/Download
 
-`git clone https://github.com/Jyotsna-Singh/Angular4-Item-List-App.git`
+`git clone https://github.com/Jyotsna-Singh/Angular4-PhotoGallery.git`
 
 ## License
 MIT License
